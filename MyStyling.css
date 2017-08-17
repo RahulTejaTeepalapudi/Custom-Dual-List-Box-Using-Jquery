@@ -1,0 +1,23 @@
+.li_grp_A, .li_grp_B{
+  display:block;
+  padding-left:0px;
+  max-width:300px;
+  border:2px solid black;
+}
+.li_grp_item{
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border-bottom:2px solid black;
+    cursor:pointer;
+}
+.btn_pushToB, .btn_pushToA{
+  height:25px;
+  cursor:pointer;
+}
+.languageTrHighlight{
+  background:darkturquoise;
+}
+
